@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5fbe6f8309e1bf40e907703b214c2419",
+    "revision": "fdff48e9c0b38792d74c04c15c6386a0",
     "url": "/evernote-clone/index.html"
   },
   {
