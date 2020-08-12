@@ -61,12 +61,17 @@ class Editor extends Component {
   render() {
 
     const {classes, note} = this.props;
+    const modules = {
+      clipboard: {
+        matchVisual: false
+      }
+    }
     return (
       <div className={classes.editorContainer}>
         <div>
           <input type="text" value={this.state.title} onChange={this.updateTitle}  className={classes.titleInput}></input>
         </div>
-        <ReactQuill value={this.state.text} onChange={this.updateBody}></ReactQuill>
+        <ReactQuill value={this.state.text} onChange={this.updateBody} modules={modules}></ReactQuill>
       </div>
     );
   }

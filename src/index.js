@@ -8,9 +8,10 @@ require('firebase/firestore');
 
 // Your web app's Firebase configuration 
 // Initialize Firebase
+let apiKey = process.env.REACT_APP_API_KEY
 firebase.initializeApp(
   {
-    apiKey: "AIzaSyAAxZaHlIia7KRBhMom9Ddfx3GYzWuHgiM",
+    apiKey: {apiKey},
     authDomain: "evernoteclone-1b3dd.firebaseapp.com",
     databaseURL: "https://evernoteclone-1b3dd.firebaseio.com",
     projectId: "evernoteclone-1b3dd",
