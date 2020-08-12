@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/evernote-clone/static/css/main.60d5545d.chunk.css",
-    "main.js": "/evernote-clone/static/js/main.43064e67.chunk.js",
-    "main.js.map": "/evernote-clone/static/js/main.43064e67.chunk.js.map",
+    "main.js": "/evernote-clone/static/js/main.7fe3badf.chunk.js",
+    "main.js.map": "/evernote-clone/static/js/main.7fe3badf.chunk.js.map",
     "runtime-main.js": "/evernote-clone/static/js/runtime-main.955b9996.js",
     "runtime-main.js.map": "/evernote-clone/static/js/runtime-main.955b9996.js.map",
-    "static/js/2.f5507cef.chunk.js": "/evernote-clone/static/js/2.f5507cef.chunk.js",
-    "static/js/2.f5507cef.chunk.js.map": "/evernote-clone/static/js/2.f5507cef.chunk.js.map",
+    "static/js/2.1af52363.chunk.js": "/evernote-clone/static/js/2.1af52363.chunk.js",
+    "static/js/2.1af52363.chunk.js.map": "/evernote-clone/static/js/2.1af52363.chunk.js.map",
     "index.html": "/evernote-clone/index.html",
-    "precache-manifest.52c30e6d2fe9b4ccd727d4751030a1a6.js": "/evernote-clone/precache-manifest.52c30e6d2fe9b4ccd727d4751030a1a6.js",
+    "precache-manifest.ae51cd1a9acdd38c68a058297a9e2f00.js": "/evernote-clone/precache-manifest.ae51cd1a9acdd38c68a058297a9e2f00.js",
     "service-worker.js": "/evernote-clone/service-worker.js",
     "static/css/main.60d5545d.chunk.css.map": "/evernote-clone/static/css/main.60d5545d.chunk.css.map",
-    "static/js/2.f5507cef.chunk.js.LICENSE.txt": "/evernote-clone/static/js/2.f5507cef.chunk.js.LICENSE.txt"
+    "static/js/2.1af52363.chunk.js.LICENSE.txt": "/evernote-clone/static/js/2.1af52363.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.955b9996.js",
-    "static/js/2.f5507cef.chunk.js",
+    "static/js/2.1af52363.chunk.js",
     "static/css/main.60d5545d.chunk.css",
-    "static/js/main.43064e67.chunk.js"
+    "static/js/main.7fe3badf.chunk.js"
   ]
 }
